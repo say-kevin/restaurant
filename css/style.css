@@ -3,7 +3,7 @@
   border-color: rgba(0,0,0,1)
 }
 
-
-body{
- font-family: "avenir" sans-serif;
+h1{
+  font-family: "Avenir" sans-serif;
+  color: black;
 }
