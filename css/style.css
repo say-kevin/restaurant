@@ -12,3 +12,8 @@ h1{
   float:left;
   margin-right: 20px;
 }
+
+.center-float{
+  float:center
+  margin-right: 20px;
+}
