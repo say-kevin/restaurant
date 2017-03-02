@@ -16,6 +16,10 @@ body{
   font-family: 'Roboto', sans-serif;
 }
 
+.jumbotronh1 {
+  color: white
+}
+
 .left-float{
   float:left;
   margin-right: 20px;
