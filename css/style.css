@@ -9,7 +9,11 @@ h1{
 }
 
 h2{
-  font-family: 'Arvo', serif; 
+  font-family: 'Arvo', serif;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
 }
 
 .left-float{
