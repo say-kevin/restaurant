@@ -24,6 +24,10 @@ body{
   color: white
 }
 
+.jumbotron{
+  background-image: url(../images/aboutus.jpeg);
+}
+
 .left-float{
   float:left;
   margin-right: 20px;
