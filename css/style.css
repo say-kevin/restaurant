@@ -7,6 +7,15 @@
   margin-bottom: : 0px;
 }
 
+.jumbotron{
+  background-image: url(../images/aboutus.png);
+  background-attachment: initial;
+  background-position: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
 h1{
   font-family: 'Anton', sans-serif;
   color: black;
