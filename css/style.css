@@ -46,6 +46,6 @@ body{
 
 .center-float{
   float: center;
-  margin-right: 50px;
-  margin-left: 50px
+  padding-right: 100px;
+  padding-left: 100px
 }
