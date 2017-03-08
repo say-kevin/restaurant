@@ -44,7 +44,8 @@ body{
   margin-right: 20px;
 }
 
-.right-float{
-  float:right;
-  margin-right: 20px;
+.center-float{
+  float: center;
+  margin-right: 50px;
+  margin-left: 50px
 }
